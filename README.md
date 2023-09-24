@@ -1,2 +1,3 @@
 # LynPau
-Mi primer repositorio en GitHub 
+Mi primer repositorio de GitHub 
+Hola
